@@ -2,9 +2,6 @@
 
 ## Opis projektu
 
-![Page1](/Assets/Page1.png)
-
-
 Projekt przedstawia końcowy dashboard stworzony w Power BI na podstawie danych z 2024 roku dotyczących rynku pracy w obszarze analizy danych.  
 Dane pochodzą z kursu [Power BI Course](https://lukebarousse.com/powerbi) autorstwa Luke’a Barousse’a na YouTube.  
 Analiza została przeprowadzona krok po kroku zgodnie z materiałem z kursu, w celu nauki i praktycznego opanowania narzędzia Power BI.
