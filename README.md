@@ -43,3 +43,20 @@ Poniżej przygotowane w ramach nauki dashboardy, każdy z własnym plikiem READM
 - Wykorzystanie Git i GitHub do wersjonowania projektów  
 
 [Zobacz szczegóły projektu (README.md)](/Data_Jobs_v2/README.md)
+
+
+
+
+## Data Job Dashboard (v3 rozbudowanie modelu danych)
+![Page1](/Data_Jobs_v3/Assets/Project_3_Page1.png)
+
+### Zakres umiejętności
+
+- Estetyczne i funkcjonalne projektowanie dashboardów  
+- Czyszczenie i przygotowanie danych w Power Query  
+- Modelowanie danych (star schema)  
+- Podstawy języka DAX  
+- Praca z Visual Studio Code  
+- Wykorzystanie Git i GitHub do wersjonowania projektów  
+
+[Zobacz szczegóły projektu (README.md)](/Data_Jobs_v3/README.md)
