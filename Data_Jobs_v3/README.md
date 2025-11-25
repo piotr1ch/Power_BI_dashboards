@@ -21,39 +21,34 @@ Część nazw została dopasowana automatycznie (fuzzy match), a brakujące pozy
 
 ## Opis dashboardu
 
+
+
+### Page 1 – Data Jobs Dashboard 3.0: Global Job Market Overview
+
 ![Page1](/Data_Jobs_v3/Assets/Project_3_Page1.png)
 
-Page 1 – Data Jobs Dashboard 3.0: Global Job Market Overview
+#### KPI:
+- Job Count
+- Countries in dataset
+- Top country (Job Count – nazwa kraju)
+- Top country (Job Count – liczba ofert)
 
-KPI:
-
-Job Count
-
-Countries in dataset
-
-Top country (Job Count – nazwa kraju)
-
-Top country (Job Count – liczba ofert)
-
-Tabela top 10 krajów:
+#### Tabela top 10 krajów:
 Kolumny: Country | Population | GDP | Job Count | Job Density
 
-Scatter chart: Population vs Job Count
+#### Scatter chart: Population vs Job Count
 
 Dashboard pozwala szybko ocenić wielkość rynku pracy i gęstość ofert względem populacji, a także identyfikować kraje z największą liczbą ofert.
 
 
+### Page 2 – Economic Factors vs Job Market Performance
+
 ![Page2](/Data_Jobs_v3/Assets/Project_3_Page2.png)
 
-Page 2 – Economic Factors vs Job Market Performance
-
-Scatter charts:
-
-GDP per Capita vs Job Density
-
-GDP per Capita vs Job Count
-
-Slicer: Population tier (0–10M, 10–20M, 20–100M, 100M+)
+#### Scatter charts:
+- GDP per Capita vs Job Density
+- GDP per Capita vs Job Count
+- Slicer: Population tier (0–10M, 10–20M, 20–100M, 100M+)
 
 Strona ta pokazuje zależności między PKB (total i per capita) a rynkiem ofert pracy, umożliwiając analizę ekonomiczną w kontekście liczby i gęstości ofert w różnych krajach.
 
