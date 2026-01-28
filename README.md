@@ -60,3 +60,33 @@ Poniżej przygotowane w ramach nauki dashboardy, każdy z własnym plikiem READM
 - Wykorzystanie Git i GitHub do wersjonowania projektów  
 
 [Zobacz szczegóły projektu (README.md)](/Data_Jobs_v3/README.md)
+
+
+
+
+## Dividend Analysis Dashboard – Quality & Regularity
+
+![Page1](/_ANALITYK/2_Power_BI/Assets/Page1.png)
+
+![Page1](https://github.com/piotr1ch/Analiza_dywidend/blob/main/2_Power_BI/assets/Page1.png)
+
+Dashboard analityczny wspierający wybór spółek dywidendowych notowanych na GPW poprzez ocenę regularności wypłat oraz jakości dywidendy.
+Projekt skupia się na budowie systemu scoringowego, dynamicznych rankingów oraz świadomym zarządzaniu kontekstem filtrów w DAX.
+
+### Zakres umiejętności
+
+- Przygotowanie i transformacja danych w Power Query
+- Projektowanie modelu danych w układzie gwiazdy (star schema)
+- Tworzenie zaawansowanych miar DAX (scoring, rankingi, normalizacja)
+- Budowa systemu wag i agregacji wskaźników
+- Dynamiczne rankingi Top N (ALLSELECTED)
+- Analiza dywidend w czasie (zakres lat od–do)
+- Projektowanie dashboardu wspierającego decyzje analityczne
+- Scatter chart (Quality vs Regularity) z wielowymiarowym kodowaniem danych
+- Rozbudowany tooltip (szczegółowa analiza spółki bez zmiany widoku)
+- Praca z Git i GitHub (dokumentacja, README)
+
+[Zobacz szczegóły projektu (README.md)](/_ANALITYK/2_Power_BI/Assets/README.md)
+
+
+[Zobacz szczegóły projektu (README.md)](https://github.com/piotr1ch/Analiza_dywidend/blob/main/2_Power_BI/README.md)
