@@ -36,7 +36,7 @@ i pracowników, z wykorzystaniem dziennej granularności danych.
 - Rozbudowane tooltipy kontekstowe
 - Praca z Git i GitHub (struktura repozytorium, README)
 
-[Zobacz szczegóły projektu (README.md)](https://github.com/piotr1ch/Delegation_Cost_-_Efficiency_Analysis/README.md)
+[Zobacz szczegóły projektu (README.md)](https://github.com/piotr1ch/Delegation_Cost_-_Efficiency_Analysis/blob/main/README.md)
 
 [Zobacz skrypty sql)](https://github.com/piotr1ch/Delegation_Cost_-_Efficiency_Analysis/tree/main/SQL%20Scripts)
 
