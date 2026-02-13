@@ -7,6 +7,22 @@ Każdy projekt prezentuje inne zagadnienie analityczne oraz wykorzystanie różn
 
 Poniżej przygotowane w ramach nauki dashboardy, każdy z własnym plikiem README.md w kolejności od najnowszego do najstarszego.
 
+## Invoice Automation & Monitoring (End-to-End: Excel + VBA + Power Query + Power BI)
+
+![Page1](https://github.com/piotr1ch/Invoice_Automation_and_Monitoring/blob/main/Assets/Page1.png)
+
+Kompleksowe rozwiązanie typu End-to-End automatyzujące proces zarządzania fakturami – od operacyjnego wprowadzania danych w rozproszonych plikach Excel, przez automatyzację eksportu do systemów księgowych (**Enova**), aż po analityczny dashboard KPI. Projekt łączy elastyczność Excela z mocą analityczną Power BI, skutecznie eliminując błędy ręcznego scalania danych.
+
+### Zakres umiejętności
+
+- **Automatyzacja procesów (VBA):** tworzenie makr generujących pliki wsadowe (Eksport) zgodne ze specyfikacją systemów zewnętrznych.
+- **Zaawansowane ETL (Power Query):** konsolidacja danych z wielu źródeł, czyszczenie i wykorzystanie relacyjnych operacji łączenia (m.in. **LeftAnti Join** do identyfikacji nowych rekordów).
+- **Projektowanie architektury danych:** stworzenie trójwarstwowego pipeline'u (Operacyjna -> Zarządcza -> Analityczna) z wizualizacją w **Mermaid**.
+- **Modelowanie i DAX:** budowa schematu gwiazdy oraz miar monitorujących płynność (m.in. *Total Outstanding Amount*, *Paid Amount %*, *Invoices Count*).
+- **Analityka i Wizualizacja:** projektowanie dashboardu z KPI, trendami płatności oraz rankingami zaległości.
+
+[Zobacz szczegóły projektu (README.md)](https://github.com/piotr1ch/Invoice_Automation_and_Monitoring/blob/main/README.md)
+
 
 ## Delegation Cost Analysis Dashboard (SQL + Power BI)
 
